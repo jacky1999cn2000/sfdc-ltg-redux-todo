@@ -34,3 +34,4 @@
       * the latter task would use `gulp-jsforce-deploy` to upload static resource (and other metadata, based on package.xml) to designated org (in this case, the developer org)
 
 ![2.gif](../screenshots/2.gif)
+![3.gif](../screenshots/3.gif)

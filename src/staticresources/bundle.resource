@@ -72,7 +72,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	// import reducer from './reducers'
 	// import * as actionCreators from './actions'
 
-	var a = 'a';
+	var b = 'b';
 
 	var stores = exports.stores = (0, _redux.createStore)(reducer, (0, _redux.applyMiddleware)(_reduxThunk2.default));
 	var actions = exports.actions = (0, _redux.bindActionCreators)(actionCreators, store.dispatch);
