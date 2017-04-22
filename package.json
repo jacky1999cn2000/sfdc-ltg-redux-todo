@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacky1999cn2000/sfdc-ltg-redux-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacky1999cn2000/sfdc-ltg-redux-todo/issues"
+  },
+  "homepage": "https://github.com/jacky1999cn2000/sfdc-ltg-redux-todo#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-jsforce-deploy": "^1.1.2",
+    "gulp-webpack": "^1.5.0",
+    "gulp-zip": "^4.0.0"
+  }
+}
