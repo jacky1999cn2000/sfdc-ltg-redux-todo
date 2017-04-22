@@ -32,4 +32,4 @@
       * the former task would use `webpack.config.build.js` to generate `bundle.resource` file based on `bundle.js` file (assuming there is no compile errors in `front_bash` container)
       * the latter task would use `gulp-jsforce-deploy` to upload static resource (and other metadata, based on package.xml) to designated org (in this case, the developer org)
 
-npm i -g gulp
+![2.gif](../screenshots/2.gif)
